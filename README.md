@@ -5,7 +5,7 @@ An interactive analytics project that explores what drives Olympic success. Data
 **Live Tableau Public**:  
 [Click Here to View Live Story & Dashboards](https://public.tableau.com/app/profile/mo.abrar.ahmed/viz/GlobalOlympicSportsPerformance/Story1)
 
-**Demo Video**: [ADD LINK HERE]  
+**Demo Video**: [Watch demo video](https://drive.google.com/file/d/1Oj7QF3tmspYd_O87570QOvWXM5pkT_QR/view?usp=sharing)
 **Author**: MO Abrar Ahmed  
 **Contact**: en25cs3010572@medicaps.ac.in
 
