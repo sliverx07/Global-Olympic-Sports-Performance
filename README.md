@@ -70,3 +70,19 @@ The Olympic Games are a global stage where nations compete to show sporting exce
 ![Sheet 6](docs/ScreenShort/sheet6.png)
 ![Sheet 7](docs/ScreenShort/sheet7.png)
 ![Sheet 8](docs/ScreenShort/sheet8.png)
+
+
+## 📊 Tableau Dashboards & Visualizations
+
+- **Live Tableau Public Story:** [Click Here to View Interactive Story](https://public.tableau.com/)
+- **Key Dashboards Included:**
+  - Executive Strategy Dashboard (KPIs, Global Map)
+  - Historical Medal Performance Trends (1992 - 2026)
+  - Country-wise Country Ranking & Investment Analysis
+
+---
+
+## 🔮 Future Enhancements
+- Integration of live API endpoints for real-time sports data.
+- User authentication for saved dashboard preferences.
+- Containerization using Docker for seamless cloud deployment.
